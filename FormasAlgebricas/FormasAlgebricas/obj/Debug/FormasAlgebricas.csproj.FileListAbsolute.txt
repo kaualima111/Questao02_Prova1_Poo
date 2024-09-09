@@ -1,0 +1,7 @@
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\bin\Debug\FormasAlgebricas.exe.config
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\bin\Debug\FormasAlgebricas.exe
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\bin\Debug\FormasAlgebricas.pdb
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\obj\Debug\FormasAlgebricas.csproj.AssemblyReference.cache
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\obj\Debug\FormasAlgebricas.csproj.CoreCompileInputs.cache
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\obj\Debug\FormasAlgebricas.exe
+C:\Users\patom\source\repos\FormasAlgebricas\FormasAlgebricas\obj\Debug\FormasAlgebricas.pdb
